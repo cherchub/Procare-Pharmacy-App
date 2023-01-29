@@ -1,0 +1,22 @@
+c:\users\dell\documents\visual studio 2010\Projects\MINIPROJECT 1\MINIPROJECT 1\bin\Debug\MINIPROJECT 1.exe
+c:\users\dell\documents\visual studio 2010\Projects\MINIPROJECT 1\MINIPROJECT 1\bin\Debug\MINIPROJECT 1.pdb
+c:\users\dell\documents\visual studio 2010\Projects\MINIPROJECT 1\MINIPROJECT 1\obj\x86\Debug\MINIPROJECT_1.Form1.resources
+c:\users\dell\documents\visual studio 2010\Projects\MINIPROJECT 1\MINIPROJECT 1\obj\x86\Debug\MINIPROJECT_1.Form2.resources
+c:\users\dell\documents\visual studio 2010\Projects\MINIPROJECT 1\MINIPROJECT 1\obj\x86\Debug\MINIPROJECT_1.Properties.Resources.resources
+c:\users\dell\documents\visual studio 2010\Projects\MINIPROJECT 1\MINIPROJECT 1\obj\x86\Debug\MINIPROJECT 1.csproj.GenerateResource.Cache
+c:\users\dell\documents\visual studio 2010\Projects\MINIPROJECT 1\MINIPROJECT 1\obj\x86\Debug\MINIPROJECT 1.exe
+c:\users\dell\documents\visual studio 2010\Projects\MINIPROJECT 1\MINIPROJECT 1\obj\x86\Debug\MINIPROJECT 1.pdb
+C:\Users\Dell\documents\visual studio 2010\Projects\MINIPROJECT 1\MINIPROJECT 1\obj\x86\Debug\MINIPROJECT 1.csprojResolveAssemblyReference.cache
+C:\Users\Dell\documents\visual studio 2010\Projects\MINIPROJECT 1\MINIPROJECT 1\obj\x86\Debug\MINIPROJECT_1.Form3.resources
+C:\Users\Dell\documents\visual studio 2010\Projects\MINIPROJECT 1\MINIPROJECT 1\obj\x86\Debug\MINIPROJECT_1.Form4.resources
+C:\Users\Dell\documents\visual studio 2010\Projects\MINIPROJECT 1\MINIPROJECT 1\obj\x86\Debug\MINIPROJECT_1.Form5.resources
+C:\Users\Dell\documents\visual studio 2010\Projects\MINIPROJECT 1\MINIPROJECT 1\obj\x86\Debug\MINIPROJECT_1.Form6.resources
+C:\Users\Dell\documents\visual studio 2010\Projects\MINIPROJECT 1\MINIPROJECT 1\obj\x86\Debug\MINIPROJECT_1.Form7.resources
+C:\Users\Dell\documents\visual studio 2010\Projects\MINIPROJECT 1\MINIPROJECT 1\obj\x86\Debug\MINIPROJECT_1.Form8.resources
+C:\Users\Dell\documents\visual studio 2010\Projects\MINIPROJECT 1\MINIPROJECT 1\obj\x86\Debug\MINIPROJECT_1.Form10.resources
+C:\Users\Dell\documents\visual studio 2010\Projects\MINIPROJECT 1\MINIPROJECT 1\obj\x86\Debug\MINIPROJECT_1.Form9.resources
+C:\Users\Dell\documents\visual studio 2010\Projects\MINIPROJECT 1\MINIPROJECT 1\obj\x86\Debug\MINIPROJECT_1.Form11.resources
+C:\Users\Dell\documents\visual studio 2010\Projects\MINIPROJECT 1\MINIPROJECT 1\obj\x86\Debug\MINIPROJECT_1.Form12.resources
+C:\Users\Dell\documents\visual studio 2010\Projects\MINIPROJECT 1\MINIPROJECT 1\obj\x86\Debug\MINIPROJECT_1.Form13.resources
+C:\Users\Dell\documents\visual studio 2010\Projects\MINIPROJECT 1\MINIPROJECT 1\obj\x86\Debug\MINIPROJECT_1.Form14.resources
+C:\Users\Dell\documents\visual studio 2010\Projects\MINIPROJECT 1\MINIPROJECT 1\obj\x86\Debug\MINIPROJECT_1.Form15.resources
